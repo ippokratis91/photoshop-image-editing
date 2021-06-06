@@ -34,7 +34,7 @@ Projects that include Image editing with Photoshop
 ![](https://github.com/ippokratis91/photoshop-image-editing/blob/main/mirrorEffect.png)
 
 # Project11: Pexels
-![](https://github.com/ippokratis91/photoshop-image-editing/blob/main/pexels-photo-477235.png)
+![](https://github.com/ippokratis91/photoshop-image-editing/blob/main/pexels-photo-477235.jpeg)
 
 # Project12: Smoke
 ![](https://github.com/ippokratis91/photoshop-image-editing/blob/main/smoke-girl.png)
